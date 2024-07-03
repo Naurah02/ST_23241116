@@ -1,8 +1,8 @@
 def tampilkan_data():
     # Data diri
     data_diri = {
-        1: "Nama: Putra Ramadhan",
-        2: "Umur: 19",
+        1: "Nama: Naurah Rahadatulasiy",
+        2: "Umur: 18",
         3: "Program Studi: PTI 2 C"
     }
 
